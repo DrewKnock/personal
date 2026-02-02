@@ -1,0 +1,35 @@
+header {
+  background-color: #c41e3a;
+  color: #080f0f;
+  padding: 10px 0;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+nav li {
+  margin: 0 20px;
+}
+nav a {
+  text-decoration: none;
+  color: #f1be35;
+}
+body {
+  font-family: Courier New, monospace;
+  color: #080f0f;
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3{
+  font-family: Helvetica, Arial, sans-serif;
+}
+img {
+  max-width: 100%;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #c41e3a;
+  color: #f1be35;
+}
